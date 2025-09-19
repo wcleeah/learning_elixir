@@ -24,3 +24,5 @@ learning_elixir-*.tar
 
 # Thanks macos
 .DS_Store
+
+.elixir-tools/
